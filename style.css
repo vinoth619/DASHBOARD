@@ -1,0 +1,130 @@
+body{
+    display: flex;
+}
+ol{
+    list-style-type: none;
+}
+
+#side-bar{
+   width:20%;
+    padding-top: 10px;
+   background-color:#0ea5e9;
+   color: aliceblue;
+   display: flex;
+   flex-direction: column;
+   gap: 30px;
+   align-items: center;
+   font-size: 13px;
+   font-weight: bold;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#side-bar h3{
+    font-size: 17px;
+}
+.icon{
+    width: 40px;
+    height:   40px;
+    
+}
+span{
+    display: flex;
+    gap:5px;
+    
+}
+img{
+    color: white;
+}
+#secondol{
+    margin-top: 30px;
+}
+li{
+    margin-top: 15px;
+}
+i{
+    display: inline;
+}
+
+
+/* second div */
+
+#page{
+    width:80%;
+    
+    height: fit-content;
+}
+input{
+    border: none;
+    width:90%;
+    height: 47%;
+    padding: 3px;
+    border-radius: 1em;
+    background-color:#c3dbe7;
+    
+    
+}
+#search{
+     display: flex;
+     gap:28%;
+    
+}
+#ins{
+    display: flex;
+    gap: 20px;
+    width: 44%;
+    border: 1p solid black;
+}
+
+
+.man{
+    width: 40px;
+    height: 40px;
+    background-color:#0ea5e9;
+    border-radius: 50%;
+}
+#man1{
+    display: flex;
+    gap:20px;
+    font-size: 13px;
+}
+.jo{
+    width: 25px;
+    height:25px
+}
+#morgan{
+    display: flex;
+    gap: 10px;
+    width:90%;
+    font-size: 14px;
+}
+.man2{
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background-color:#0ea5e9;
+}
+#button-fi{
+    display: flex;
+    margin-top: 20px;
+    font-size: 12px;
+    
+
+}
+
+#pithan{
+    display: flex;
+    gap:5px;
+    margin-right: 5px;
+    text-transform: capitalize;
+    
+
+  
+}
+/* .................. */
+#header{
+   font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+/* ................. */
+
+
